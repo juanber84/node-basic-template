@@ -14,6 +14,9 @@ cd my-project
 cp ./src/parameters.json.dist ./src/parameters.json
 cp ./test/extra/parameters.json.dist ./test/extra/parameters.json
 
+# Install dependencies
+yarn install
+
 # Run test
 yarn test
 ```

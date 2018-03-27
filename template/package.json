@@ -14,7 +14,7 @@
     "commitmsg": "cd .. && validate-commit-msg -p eslint"
   },
   "author": "juan.berzal@gigigo.com",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
     "eslint": "^4.19.1",
