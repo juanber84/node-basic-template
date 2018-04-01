@@ -7,7 +7,7 @@ yarn global add sao
 # Create a new project based on this template
 sao juanber84/node-basic-template my-project
 
-#Move into the folder
+# Move into the folder
 cd my-project
 
 # Generate parameters files
